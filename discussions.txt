@@ -1,0 +1,747 @@
+Title: ML algorithms not training
+URL: https://www.kaggle.com/competitions/optiver-trading-at-the-close/discussion/456444
+
+Title: 🐢Help on⚡Inference⚡Speed Ups🐇
+URL: https://www.kaggle.com/competitions/optiver-trading-at-the-close/discussion/456635
+
+Title: Time series model submission issues post data update
+URL: https://www.kaggle.com/competitions/optiver-trading-at-the-close/discussion/456901
+
+Title: The near price / reference price in the dataset doesn't meet the definition
+URL: https://www.kaggle.com/competitions/optiver-trading-at-the-close/discussion/456894
+
+Title: TPU cannot be used in this competition?
+URL: https://www.kaggle.com/competitions/optiver-trading-at-the-close/discussion/456817
+
+Title: any good solution for speedup rolling feature
+URL: https://www.kaggle.com/competitions/optiver-trading-at-the-close/discussion/456593
+
+Title: To avoid final submission timeout, what is the running time limit for the current public leaderboard?
+URL: https://www.kaggle.com/competitions/optiver-trading-at-the-close/discussion/455937
+
+Title: What is "currently_scored"?
+URL: https://www.kaggle.com/competitions/optiver-trading-at-the-close/discussion/456292
+
+Title: Error during inference (I think?)
+URL: https://www.kaggle.com/competitions/optiver-trading-at-the-close/discussion/456700
+
+Title: Cannot run 'lightgbm' module on TPU
+URL: https://www.kaggle.com/competitions/optiver-trading-at-the-close/discussion/456302
+
+Title: Shape mismatch test.csv and revealed_target.csv
+URL: https://www.kaggle.com/competitions/optiver-trading-at-the-close/discussion/456688
+
+Title: 'currently_scored' column in test.csv
+URL: https://www.kaggle.com/competitions/optiver-trading-at-the-close/discussion/456679
+
+Title: Some ideas and implementation of features
+URL: https://www.kaggle.com/competitions/optiver-trading-at-the-close/discussion/453609
+
+Title: cannot unpack non-iterable NoneType object
+URL: https://www.kaggle.com/competitions/optiver-trading-at-the-close/discussion/456290
+
+Title: New dataset not showing
+URL: https://www.kaggle.com/competitions/optiver-trading-at-the-close/discussion/456628
+
+Title: I'm new to Kaggle , don't know where to start
+URL: https://www.kaggle.com/competitions/optiver-trading-at-the-close/discussion/456622
+
+Title: Can I dump my model to "/kaggle/working" directory in advance?
+URL: https://www.kaggle.com/competitions/optiver-trading-at-the-close/discussion/456529
+
+Title: future forecasting time series models vs. gradient boosting
+URL: https://www.kaggle.com/competitions/optiver-trading-at-the-close/discussion/454786
+
+Title: [Public Notebook Confusion/Discussion] When in doubt, experiment and build it from scratch
+URL: https://www.kaggle.com/competitions/optiver-trading-at-the-close/discussion/454283
+
+Title: Submisson scoring error
+URL: https://www.kaggle.com/competitions/optiver-trading-at-the-close/discussion/456367
+
+Title: Inconsistency with test.csv and last 3days of train.csv
+URL: https://www.kaggle.com/competitions/optiver-trading-at-the-close/discussion/456538
+
+Title: Correlation between CV and LB
+URL: https://www.kaggle.com/competitions/optiver-trading-at-the-close/discussion/455749
+
+Title: Inconsistent results in public LB before and after API update, with no code changes
+URL: https://www.kaggle.com/competitions/optiver-trading-at-the-close/discussion/455690
+
+Title: Does test dataset have values that are conflicting?
+URL: https://www.kaggle.com/competitions/optiver-trading-at-the-close/discussion/456375
+
+Title: Is there anyone tried to build LGBM for each stock_id? [200 models]
+URL: https://www.kaggle.com/competitions/optiver-trading-at-the-close/discussion/455384
+
+Title: Checking how long it takes for scoring a given submission
+URL: https://www.kaggle.com/competitions/optiver-trading-at-the-close/discussion/455906
+
+Title: Interim data update planned for the week of November 13th
+URL: https://www.kaggle.com/competitions/optiver-trading-at-the-close/discussion/454103
+
+Title: I cant undrestand the diffrence between online and offline mode
+URL: https://www.kaggle.com/competitions/optiver-trading-at-the-close/discussion/455834
+
+Title: Anyone achieved high scores using model other than LGBM?
+URL: https://www.kaggle.com/competitions/optiver-trading-at-the-close/discussion/454136
+
+Title: Feature selection techniques
+URL: https://www.kaggle.com/competitions/optiver-trading-at-the-close/discussion/454190
+
+Title: Latest NVIDIA cuDF fully supports Pandas with 150x speedup! No code changes needed!
+URL: https://www.kaggle.com/competitions/optiver-trading-at-the-close/discussion/454454
+
+Title: Fist Submission - Problems
+URL: https://www.kaggle.com/competitions/optiver-trading-at-the-close/discussion/455934
+
+Title: mae and make money
+URL: https://www.kaggle.com/competitions/optiver-trading-at-the-close/discussion/453664
+
+Title: Will the Makeup of the Synthetic Index Change during the Forecasting Phase??
+URL: https://www.kaggle.com/competitions/optiver-trading-at-the-close/discussion/456060
+
+Title: kaggle command line
+URL: https://www.kaggle.com/competitions/optiver-trading-at-the-close/discussion/456291
+
+Title: How to get good result in this. i am new to kaggle.
+URL: https://www.kaggle.com/competitions/optiver-trading-at-the-close/discussion/455776
+
+Title: Target Lagged Features
+URL: https://www.kaggle.com/competitions/optiver-trading-at-the-close/discussion/455654
+
+Title: Stock number of train&test sets are different
+URL: https://www.kaggle.com/competitions/optiver-trading-at-the-close/discussion/456240
+
+Title: How to read a LSTM model from pickle file on Kaggle?
+URL: https://www.kaggle.com/competitions/optiver-trading-at-the-close/discussion/455980
+
+Title: Scorer - Interpretation
+URL: https://www.kaggle.com/competitions/optiver-trading-at-the-close/discussion/455940
+
+Title: Is TPU available
+URL: https://www.kaggle.com/competitions/optiver-trading-at-the-close/discussion/456189
+
+Title: How to invert the time series prices back to the original format?
+URL: https://www.kaggle.com/competitions/optiver-trading-at-the-close/discussion/455735
+
+Title: Possibility of Loading a Saved Model
+URL: https://www.kaggle.com/competitions/optiver-trading-at-the-close/discussion/456186
+
+Title: Submission Scoring Error with good submission code previously
+URL: https://www.kaggle.com/competitions/optiver-trading-at-the-close/discussion/455639
+
+Title: notebook threw exception
+URL: https://www.kaggle.com/competitions/optiver-trading-at-the-close/discussion/455538
+
+Title: about submission error
+URL: https://www.kaggle.com/competitions/optiver-trading-at-the-close/discussion/455741
+
+Title: The 'Save & Run All' keeps failing
+URL: https://www.kaggle.com/competitions/optiver-trading-at-the-close/discussion/455692
+
+Title: Is anyone using the Public_timeseries_testing_util?
+URL: https://www.kaggle.com/competitions/optiver-trading-at-the-close/discussion/456045
+
+Title: About some modeling ideas
+URL: https://www.kaggle.com/competitions/optiver-trading-at-the-close/discussion/450626
+
+Title: some question about nn
+URL: https://www.kaggle.com/competitions/optiver-trading-at-the-close/discussion/455666
+
+Title: How to speed up the creation of rolling features?
+URL: https://www.kaggle.com/competitions/optiver-trading-at-the-close/discussion/454967
+
+Title: Need Help With Submission Error
+URL: https://www.kaggle.com/competitions/optiver-trading-at-the-close/discussion/455637
+
+Title: Are our models just making "nice" guesses
+URL: https://www.kaggle.com/competitions/optiver-trading-at-the-close/discussion/452872
+
+Title: Be careful that LGBM (GPU training) may not be reproducible !!!
+URL: https://www.kaggle.com/competitions/optiver-trading-at-the-close/discussion/454687
+
+Title: Technical analysis functions to generate more features
+URL: https://www.kaggle.com/competitions/optiver-trading-at-the-close/discussion/454179
+
+Title: Missing data in the test data
+URL: https://www.kaggle.com/competitions/optiver-trading-at-the-close/discussion/454607
+
+Title: How to do feature selection?
+URL: https://www.kaggle.com/competitions/optiver-trading-at-the-close/discussion/454916
+
+Title: The hidden index wap
+URL: https://www.kaggle.com/competitions/optiver-trading-at-the-close/discussion/453811
+
+Title: What exactly is time ID? It's not mentioned in the Data Description
+URL: https://www.kaggle.com/competitions/optiver-trading-at-the-close/discussion/455197
+
+Title: target value for last 60 sec
+URL: https://www.kaggle.com/competitions/optiver-trading-at-the-close/discussion/454941
+
+Title: Number of submissions -- per person or per team?
+URL: https://www.kaggle.com/competitions/optiver-trading-at-the-close/discussion/454777
+
+Title: What are we predicting?
+URL: https://www.kaggle.com/competitions/optiver-trading-at-the-close/discussion/453641
+
+Title: Any good constant to put in?
+URL: https://www.kaggle.com/competitions/optiver-trading-at-the-close/discussion/454988
+
+Title: Why do we need feature engineering?
+URL: https://www.kaggle.com/competitions/optiver-trading-at-the-close/discussion/454175
+
+Title: Scoring takes over 5 hours
+URL: https://www.kaggle.com/competitions/optiver-trading-at-the-close/discussion/451900
+
+Title: Target Question
+URL: https://www.kaggle.com/competitions/optiver-trading-at-the-close/discussion/454783
+
+Title: What is the time horizon of predictions in the API served dataframe?
+URL: https://www.kaggle.com/competitions/optiver-trading-at-the-close/discussion/453557
+
+Title: [Question] goto_conversion
+URL: https://www.kaggle.com/competitions/optiver-trading-at-the-close/discussion/451702
+
+Title: Unable to submit
+URL: https://www.kaggle.com/competitions/optiver-trading-at-the-close/discussion/454692
+
+Title: Any idea for cluster feature?
+URL: https://www.kaggle.com/competitions/optiver-trading-at-the-close/discussion/454680
+
+Title: I don't understand the mechanism of API submission and the use of the "optive 2023" file. Please help!
+URL: https://www.kaggle.com/competitions/optiver-trading-at-the-close/discussion/454748
+
+Title: What is wrong with my submission?
+URL: https://www.kaggle.com/competitions/optiver-trading-at-the-close/discussion/454091
+
+Title: Tutorial on Clustering with Time Series Data
+URL: https://www.kaggle.com/competitions/optiver-trading-at-the-close/discussion/454374
+
+Title: How to compare / combine the MAE across multiple folds
+URL: https://www.kaggle.com/competitions/optiver-trading-at-the-close/discussion/448069
+
+Title: Issues submitting predictions
+URL: https://www.kaggle.com/competitions/optiver-trading-at-the-close/discussion/454489
+
+Title: Can anyone explain the zero sum function in most of the public notebooks?
+URL: https://www.kaggle.com/competitions/optiver-trading-at-the-close/discussion/451251
+
+Title: what is revealed_targets.csv?
+URL: https://www.kaggle.com/competitions/optiver-trading-at-the-close/discussion/454361
+
+Title: Try to have an lower MAE
+URL: https://www.kaggle.com/competitions/optiver-trading-at-the-close/discussion/454228
+
+Title: Purging & Embargo for Predictive Prowess 💪📊
+URL: https://www.kaggle.com/competitions/optiver-trading-at-the-close/discussion/453128
+
+Title: Submission Failure
+URL: https://www.kaggle.com/competitions/optiver-trading-at-the-close/discussion/454357
+
+Title: Rolling features - Is it the correct approach?
+URL: https://www.kaggle.com/competitions/optiver-trading-at-the-close/discussion/453546
+
+Title: Optiver Kernel stats
+URL: https://www.kaggle.com/competitions/optiver-trading-at-the-close/discussion/451532
+
+Title: The best params for LGBM
+URL: https://www.kaggle.com/competitions/optiver-trading-at-the-close/discussion/447066
+
+Title: Faster solution for building features
+URL: https://www.kaggle.com/competitions/optiver-trading-at-the-close/discussion/451735
+
+Title: Is sequential models worth a try?
+URL: https://www.kaggle.com/competitions/optiver-trading-at-the-close/discussion/453485
+
+Title: submission question
+URL: https://www.kaggle.com/competitions/optiver-trading-at-the-close/discussion/454204
+
+Title: Sharing submissions timing script
+URL: https://www.kaggle.com/competitions/optiver-trading-at-the-close/discussion/448714
+
+Title: No correlation between target and features
+URL: https://www.kaggle.com/competitions/optiver-trading-at-the-close/discussion/453949
+
+Title: Low LightGBM GPU usage
+URL: https://www.kaggle.com/competitions/optiver-trading-at-the-close/discussion/454075
+
+Title: Features as explained to a kid
+URL: https://www.kaggle.com/competitions/optiver-trading-at-the-close/discussion/444516
+
+Title: Can you refresh a notebook while it's running?
+URL: https://www.kaggle.com/competitions/optiver-trading-at-the-close/discussion/453837
+
+Title: [LB5.3393] Use Rapids Speed up Feature Engineering 🚀🚀🚀
+URL: https://www.kaggle.com/competitions/optiver-trading-at-the-close/discussion/453507
+
+Title: Submission
+URL: https://www.kaggle.com/competitions/optiver-trading-at-the-close/discussion/453628
+
+Title: Question - Datasets for Private Leaderboard and Continuity of Data
+URL: https://www.kaggle.com/competitions/optiver-trading-at-the-close/discussion/451483
+
+Title: Why most of the baselines in LGBM
+URL: https://www.kaggle.com/competitions/optiver-trading-at-the-close/discussion/453068
+
+Title: Kernel crashes when trying to run CatBoost model on GPU
+URL: https://www.kaggle.com/competitions/optiver-trading-at-the-close/discussion/453155
+
+Title: Could not find provided notebook XXXXXX
+URL: https://www.kaggle.com/competitions/optiver-trading-at-the-close/discussion/453634
+
+Title: Data frequency
+URL: https://www.kaggle.com/competitions/optiver-trading-at-the-close/discussion/453353
+
+Title: Weights of the Synthetic Index
+URL: https://www.kaggle.com/competitions/optiver-trading-at-the-close/discussion/442851
+
+Title: Run notebooks overnight?
+URL: https://www.kaggle.com/competitions/optiver-trading-at-the-close/discussion/453227
+
+Title: why Kaggle cannot import lightgbm??
+URL: https://www.kaggle.com/competitions/optiver-trading-at-the-close/discussion/453530
+
+Title: Detailed Feature Explanations as to a HS Student
+URL: https://www.kaggle.com/competitions/optiver-trading-at-the-close/discussion/452946
+
+Title: Submission Scoring Error
+URL: https://www.kaggle.com/competitions/optiver-trading-at-the-close/discussion/453237
+
+Title: Error: Number of features in data (78) is not the same as it was in training data (94)
+URL: https://www.kaggle.com/competitions/optiver-trading-at-the-close/discussion/450599
+
+Title: Is my generalisation of problem in ML space correct
+URL: https://www.kaggle.com/competitions/optiver-trading-at-the-close/discussion/453233
+
+Title: Can some one tell me how to activate the team status?
+URL: https://www.kaggle.com/competitions/optiver-trading-at-the-close/discussion/453121
+
+Title: HELP please : Submission scoring error
+URL: https://www.kaggle.com/competitions/optiver-trading-at-the-close/discussion/445585
+
+Title: How can I install LGB GPU without internet?
+URL: https://www.kaggle.com/competitions/optiver-trading-at-the-close/discussion/453224
+
+Title: about test set in submission
+URL: https://www.kaggle.com/competitions/optiver-trading-at-the-close/discussion/453220
+
+Title: Submission CSV Not Found
+URL: https://www.kaggle.com/competitions/optiver-trading-at-the-close/discussion/453007
+
+Title: Is it possible to delete specific version of a notebook?
+URL: https://www.kaggle.com/competitions/optiver-trading-at-the-close/discussion/452737
+
+Title: Missing values
+URL: https://www.kaggle.com/competitions/optiver-trading-at-the-close/discussion/452681
+
+Title: LGB Fine-tuned Notebook question
+URL: https://www.kaggle.com/competitions/optiver-trading-at-the-close/discussion/452834
+
+Title: Will using pre-trained models affect the scoring?
+URL: https://www.kaggle.com/competitions/optiver-trading-at-the-close/discussion/453082
+
+Title: speed-up XGBoost 10x with GPU
+URL: https://www.kaggle.com/competitions/optiver-trading-at-the-close/discussion/452395
+
+Title: Using pre-trained model when submitting - joblib or pickle?
+URL: https://www.kaggle.com/competitions/optiver-trading-at-the-close/discussion/452461
+
+Title: Simple tip to building feature faster
+URL: https://www.kaggle.com/competitions/optiver-trading-at-the-close/discussion/452189
+
+Title: submission scoring error (as simple as this) No Model - No FE - No Function involved! can you spot the error?
+URL: https://www.kaggle.com/competitions/optiver-trading-at-the-close/discussion/447975
+
+Title: [finding] the mechanism of revealed_targets
+URL: https://www.kaggle.com/competitions/optiver-trading-at-the-close/discussion/443275
+
+Title: Unable to load the Optiver2023 package in jupyter notebooks.
+URL: https://www.kaggle.com/competitions/optiver-trading-at-the-close/discussion/452833
+
+Title: Understanding the context of the competition
+URL: https://www.kaggle.com/competitions/optiver-trading-at-the-close/discussion/442994
+
+Title: Why can't I import this environment package after switching to TPU?
+URL: https://www.kaggle.com/competitions/optiver-trading-at-the-close/discussion/452551
+
+Title: how long dose the scoring taking time
+URL: https://www.kaggle.com/competitions/optiver-trading-at-the-close/discussion/452373
+
+Title: Question: why is the index wap returns inconsistent?
+URL: https://www.kaggle.com/competitions/optiver-trading-at-the-close/discussion/452017
+
+Title: Clarification on the hidden test data
+URL: https://www.kaggle.com/competitions/optiver-trading-at-the-close/discussion/447877
+
+Title: Kaggle Kernels community relationship
+URL: https://www.kaggle.com/competitions/optiver-trading-at-the-close/discussion/449002
+
+Title: Question regarding Training/Inference
+URL: https://www.kaggle.com/competitions/optiver-trading-at-the-close/discussion/450948
+
+Title: Nasdaq closing auction: mechanism and key data columns
+URL: https://www.kaggle.com/competitions/optiver-trading-at-the-close/discussion/442669
+
+Title: Onboarding materials and resources
+URL: https://www.kaggle.com/competitions/optiver-trading-at-the-close/discussion/441966
+
+Title: Can Auto ML fameworks performing well in this competition?
+URL: https://www.kaggle.com/competitions/optiver-trading-at-the-close/discussion/451457
+
+Title: Maybe a newbie question but why are we insterested in WAP?
+URL: https://www.kaggle.com/competitions/optiver-trading-at-the-close/discussion/443384
+
+Title: Approaches Taken
+URL: https://www.kaggle.com/competitions/optiver-trading-at-the-close/discussion/451669
+
+Title: Do categorical features help
+URL: https://www.kaggle.com/competitions/optiver-trading-at-the-close/discussion/450896
+
+Title: 📈Market Prediction - 🏆Winning Solutions from other competitions - Useful for Optiver - Trading at the Close - Predict US stocks closing movements📈❓
+URL: https://www.kaggle.com/competitions/optiver-trading-at-the-close/discussion/443396
+
+Title: submission
+URL: https://www.kaggle.com/competitions/optiver-trading-at-the-close/discussion/451610
+
+Title: *Solved* Running notebooks locally and TypeError: '>' not supported between instances of 'NoneType' and 'int'
+URL: https://www.kaggle.com/competitions/optiver-trading-at-the-close/discussion/451724
+
+Title: Regarding the submission code:
+URL: https://www.kaggle.com/competitions/optiver-trading-at-the-close/discussion/451519
+
+Title: Some (maybe) useful facts
+URL: https://www.kaggle.com/competitions/optiver-trading-at-the-close/discussion/448148
+
+Title: Data set in training and in testing from API
+URL: https://www.kaggle.com/competitions/optiver-trading-at-the-close/discussion/451297
+
+Title: I need to switch a team member with another, how I can do?
+URL: https://www.kaggle.com/competitions/optiver-trading-at-the-close/discussion/450930
+
+Title: Rolling features
+URL: https://www.kaggle.com/competitions/optiver-trading-at-the-close/discussion/449129
+
+Title: Question about submission
+URL: https://www.kaggle.com/competitions/optiver-trading-at-the-close/discussion/450330
+
+Title: Summarizing our collective learnings over the past month
+URL: https://www.kaggle.com/competitions/optiver-trading-at-the-close/discussion/448920
+
+Title: Can I use the previous time target as my feature value in the test set ?
+URL: https://www.kaggle.com/competitions/optiver-trading-at-the-close/discussion/450841
+
+Title: Ensemble in Regression Tasks
+URL: https://www.kaggle.com/competitions/optiver-trading-at-the-close/discussion/451413
+
+Title: target as feature
+URL: https://www.kaggle.com/competitions/optiver-trading-at-the-close/discussion/449208
+
+Title: 🌟 The Magic of Sectors, PCA, and Personal Exploration! 🌟
+URL: https://www.kaggle.com/competitions/optiver-trading-at-the-close/discussion/448636
+
+Title: Production API Group IDs
+URL: https://www.kaggle.com/competitions/optiver-trading-at-the-close/discussion/450771
+
+Title: Submission scoring error
+URL: https://www.kaggle.com/competitions/optiver-trading-at-the-close/discussion/444508
+
+Title: The missing value
+URL: https://www.kaggle.com/competitions/optiver-trading-at-the-close/discussion/450855
+
+Title: Strategic Approach to Feature Building
+URL: https://www.kaggle.com/competitions/optiver-trading-at-the-close/discussion/450808
+
+Title: Every submission, need to Re-train the model?
+URL: https://www.kaggle.com/competitions/optiver-trading-at-the-close/discussion/444158
+
+Title: Inquiry about null values found
+URL: https://www.kaggle.com/competitions/optiver-trading-at-the-close/discussion/450389
+
+Title: Videos about trading at the close
+URL: https://www.kaggle.com/competitions/optiver-trading-at-the-close/discussion/450323
+
+Title: Demystifying the dataset: A Guide to Understanding Optiver - Trading at the Close
+URL: https://www.kaggle.com/competitions/optiver-trading-at-the-close/discussion/445025
+
+Title: submission score error
+URL: https://www.kaggle.com/competitions/optiver-trading-at-the-close/discussion/450305
+
+Title: Does the tick size trick also work in the current competition？
+URL: https://www.kaggle.com/competitions/optiver-trading-at-the-close/discussion/449076
+
+Title: Do Normalize Price Help
+URL: https://www.kaggle.com/competitions/optiver-trading-at-the-close/discussion/449105
+
+Title: Thoughts on Rolling Features
+URL: https://www.kaggle.com/competitions/optiver-trading-at-the-close/discussion/449228
+
+Title: synthetic index
+URL: https://www.kaggle.com/competitions/optiver-trading-at-the-close/discussion/449023
+
+Title: Transparency and Data Updates in the Forecasting Timeline Competition
+URL: https://www.kaggle.com/competitions/optiver-trading-at-the-close/discussion/448967
+
+Title: Import error on windows
+URL: https://www.kaggle.com/competitions/optiver-trading-at-the-close/discussion/442158
+
+Title: Is there any way to recover the original price?
+URL: https://www.kaggle.com/competitions/optiver-trading-at-the-close/discussion/448944
+
+Title: I want to know about dataset features and time series concept
+URL: https://www.kaggle.com/competitions/optiver-trading-at-the-close/discussion/444517
+
+Title: NaN value in the target
+URL: https://www.kaggle.com/competitions/optiver-trading-at-the-close/discussion/448537
+
+Title: Candlestick Patterns - worth to try?
+URL: https://www.kaggle.com/competitions/optiver-trading-at-the-close/discussion/447556
+
+Title: Test set size
+URL: https://www.kaggle.com/competitions/optiver-trading-at-the-close/discussion/448507
+
+Title: example_test_files as validation or test set!
+URL: https://www.kaggle.com/competitions/optiver-trading-at-the-close/discussion/448607
+
+Title: No module named 'optiver2023.competition'
+URL: https://www.kaggle.com/competitions/optiver-trading-at-the-close/discussion/448237
+
+Title: Questions about the examples in nasdaq official document.
+URL: https://www.kaggle.com/competitions/optiver-trading-at-the-close/discussion/443553
+
+Title: Possible leakage?
+URL: https://www.kaggle.com/competitions/optiver-trading-at-the-close/discussion/444169
+
+Title: Questions about prediction environments
+URL: https://www.kaggle.com/competitions/optiver-trading-at-the-close/discussion/442000
+
+Title: How can we use sequential models in this competition?
+URL: https://www.kaggle.com/competitions/optiver-trading-at-the-close/discussion/448322
+
+Title: Noob question about submission
+URL: https://www.kaggle.com/competitions/optiver-trading-at-the-close/discussion/448380
+
+Title: What's the purpose of hiding information?
+URL: https://www.kaggle.com/competitions/optiver-trading-at-the-close/discussion/442964
+
+Title: Why save and run successfull, but submissions fails?
+URL: https://www.kaggle.com/competitions/optiver-trading-at-the-close/discussion/447967
+
+Title: Rolling Features in test
+URL: https://www.kaggle.com/competitions/optiver-trading-at-the-close/discussion/442632
+
+Title: Seek Help: Submission Scoring Error
+URL: https://www.kaggle.com/competitions/optiver-trading-at-the-close/discussion/447671
+
+Title: Has anyone identified the 200 stocks in train?
+URL: https://www.kaggle.com/competitions/optiver-trading-at-the-close/discussion/447097
+
+Title: Understanding far price in the dataset
+URL: https://www.kaggle.com/competitions/optiver-trading-at-the-close/discussion/442608
+
+Title: combined book
+URL: https://www.kaggle.com/competitions/optiver-trading-at-the-close/discussion/447178
+
+Title: time_id aggregate features
+URL: https://www.kaggle.com/competitions/optiver-trading-at-the-close/discussion/447952
+
+Title: What‘s wrong with lstm?
+URL: https://www.kaggle.com/competitions/optiver-trading-at-the-close/discussion/445750
+
+Title: Score Calculation
+URL: https://www.kaggle.com/competitions/optiver-trading-at-the-close/discussion/447580
+
+Title: Importance of seconds_in_bucket
+URL: https://www.kaggle.com/competitions/optiver-trading-at-the-close/discussion/447713
+
+Title: Extra data 🤔
+URL: https://www.kaggle.com/competitions/optiver-trading-at-the-close/discussion/447889
+
+Title: Exception: You can only call `make_env()` once.
+URL: https://www.kaggle.com/competitions/optiver-trading-at-the-close/discussion/447738
+
+Title: Submission Scoring Error
+URL: https://www.kaggle.com/competitions/optiver-trading-at-the-close/discussion/447301
+
+Title: Will there be any order filled in the last 10 minutes?
+URL: https://www.kaggle.com/competitions/optiver-trading-at-the-close/discussion/447047
+
+Title: Understanding the Data
+URL: https://www.kaggle.com/competitions/optiver-trading-at-the-close/discussion/442600
+
+Title: Are there values not visible in the test data?
+URL: https://www.kaggle.com/competitions/optiver-trading-at-the-close/discussion/447482
+
+Title: Validation split
+URL: https://www.kaggle.com/competitions/optiver-trading-at-the-close/discussion/447065
+
+Title: Basic submission issue
+URL: https://www.kaggle.com/competitions/optiver-trading-at-the-close/discussion/447096
+
+Title: Is the timestamp of test data continuous with train data in both public LB and private LB?
+URL: https://www.kaggle.com/competitions/optiver-trading-at-the-close/discussion/446875
+
+Title: This version of the API is not optimized and should not be used to estimate the runtime of your code on the hidden test set.
+URL: https://www.kaggle.com/competitions/optiver-trading-at-the-close/discussion/446874
+
+Title: How can I use optiver2023 library locally?
+URL: https://www.kaggle.com/competitions/optiver-trading-at-the-close/discussion/445145
+
+Title: CV and Leaderboard Scores
+URL: https://www.kaggle.com/competitions/optiver-trading-at-the-close/discussion/443461
+
+Title: Handling Missing Values: An Exploration and Strategy Discussion
+URL: https://www.kaggle.com/competitions/optiver-trading-at-the-close/discussion/445414
+
+Title: Dropping nan values are the better way to handle them in this dataset?
+URL: https://www.kaggle.com/competitions/optiver-trading-at-the-close/discussion/446357
+
+Title: Can anyone give an example of how to test locally and how to submit?
+URL: https://www.kaggle.com/competitions/optiver-trading-at-the-close/discussion/446499
+
+Title: Obtain Information by Submitting
+URL: https://www.kaggle.com/competitions/optiver-trading-at-the-close/discussion/443195
+
+Title: Date Range for the Train & Test
+URL: https://www.kaggle.com/competitions/optiver-trading-at-the-close/discussion/443507
+
+Title: Optimizing Dataframes: Datatypes and File Formats
+URL: https://www.kaggle.com/competitions/optiver-trading-at-the-close/discussion/446198
+
+Title: stock_id at inference/forecasting phase
+URL: https://www.kaggle.com/competitions/optiver-trading-at-the-close/discussion/443208
+
+Title: Clarification Question: Will all the stockids in private test be seen at least once in training data?
+URL: https://www.kaggle.com/competitions/optiver-trading-at-the-close/discussion/446081
+
+Title: Predict from a C program?
+URL: https://www.kaggle.com/competitions/optiver-trading-at-the-close/discussion/445582
+
+Title: can you add your repo for submission
+URL: https://www.kaggle.com/competitions/optiver-trading-at-the-close/discussion/445723
+
+Title: How to use a  trained model for submission?
+URL: https://www.kaggle.com/competitions/optiver-trading-at-the-close/discussion/445734
+
+Title: Rolling Feature Lead to Worse Performance
+URL: https://www.kaggle.com/competitions/optiver-trading-at-the-close/discussion/445468
+
+Title: Who can more historical dataset?  or where to get them freely?
+URL: https://www.kaggle.com/competitions/optiver-trading-at-the-close/discussion/445639
+
+Title: stock universe in test
+URL: https://www.kaggle.com/competitions/optiver-trading-at-the-close/discussion/442293
+
+Title: submission issue
+URL: https://www.kaggle.com/competitions/optiver-trading-at-the-close/discussion/445324
+
+Title: Questions about the target
+URL: https://www.kaggle.com/competitions/optiver-trading-at-the-close/discussion/445441
+
+Title: Missing Value in Target
+URL: https://www.kaggle.com/competitions/optiver-trading-at-the-close/discussion/442145
+
+Title: 关于比赛规则尤其是是否可以使用预训练模型的问题
+URL: https://www.kaggle.com/competitions/optiver-trading-at-the-close/discussion/445476
+
+Title: Is external dataset allowed be to used during the competition?
+URL: https://www.kaggle.com/competitions/optiver-trading-at-the-close/discussion/444645
+
+Title: Meaning of each price
+URL: https://www.kaggle.com/competitions/optiver-trading-at-the-close/discussion/444539
+
+Title: Big gap between CV and LB
+URL: https://www.kaggle.com/competitions/optiver-trading-at-the-close/discussion/443449
+
+Title: Minor data update: API delivers last three date IDs of training data for demonstration purposes
+URL: https://www.kaggle.com/competitions/optiver-trading-at-the-close/discussion/443571
+
+Title: All previous Kaggle Trading competitions
+URL: https://www.kaggle.com/competitions/optiver-trading-at-the-close/discussion/442453
+
+Title: Submission Query
+URL: https://www.kaggle.com/competitions/optiver-trading-at-the-close/discussion/444644
+
+Title: Prices are normalised to the opening WAP at 1.0, but sizes are a value not a number of units?
+URL: https://www.kaggle.com/competitions/optiver-trading-at-the-close/discussion/444604
+
+Title: Stock 112 is an ETF?
+URL: https://www.kaggle.com/competitions/optiver-trading-at-the-close/discussion/442864
+
+Title: Need help, whats wrong with my submission?
+URL: https://www.kaggle.com/competitions/optiver-trading-at-the-close/discussion/444075
+
+Title: Some Personal Understanding About WAP
+URL: https://www.kaggle.com/competitions/optiver-trading-at-the-close/discussion/443766
+
+Title: Missing Values in Various Columns
+URL: https://www.kaggle.com/competitions/optiver-trading-at-the-close/discussion/444054
+
+Title: Is it allowed a model that uses information from the recent past?
+URL: https://www.kaggle.com/competitions/optiver-trading-at-the-close/discussion/442470
+
+Title: submitting an R model
+URL: https://www.kaggle.com/competitions/optiver-trading-at-the-close/discussion/444025
+
+Title: Contiguous Train Test Dates
+URL: https://www.kaggle.com/competitions/optiver-trading-at-the-close/discussion/444027
+
+Title: Synthetic custom weighted index
+URL: https://www.kaggle.com/competitions/optiver-trading-at-the-close/discussion/444388
+
+Title: About LB Question
+URL: https://www.kaggle.com/competitions/optiver-trading-at-the-close/discussion/442401
+
+Title: What should we have an understanding of to attempt something like this?
+URL: https://www.kaggle.com/competitions/optiver-trading-at-the-close/discussion/444088
+
+Title: Volatility Matters. What worked and what didn't work on the last Optiver Competition.
+URL: https://www.kaggle.com/competitions/optiver-trading-at-the-close/discussion/442021
+
+Title: Notebook Memory Error
+URL: https://www.kaggle.com/competitions/optiver-trading-at-the-close/discussion/442477
+
+Title: Competition turnaround time
+URL: https://www.kaggle.com/competitions/optiver-trading-at-the-close/discussion/442380
+
+Title: Exact formula for computing target (Index)
+URL: https://www.kaggle.com/competitions/optiver-trading-at-the-close/discussion/442796
+
+Title: The previous Optiver competition and its top solutions
+URL: https://www.kaggle.com/competitions/optiver-trading-at-the-close/discussion/442167
+
+Title: US Stock and Topological Data Analysis (TDA)
+URL: https://www.kaggle.com/competitions/optiver-trading-at-the-close/discussion/443165
+
+Title: Some baseline materials to get started
+URL: https://www.kaggle.com/competitions/optiver-trading-at-the-close/discussion/442485
+
+Title: 📚 10 Best books to win this competitions 🎯
+URL: https://www.kaggle.com/competitions/optiver-trading-at-the-close/discussion/442947
+
+Title: How can I test this in a local environment?
+URL: https://www.kaggle.com/competitions/optiver-trading-at-the-close/discussion/442555
+
+Title: 🚀 Papers to Get Started 🚀
+URL: https://www.kaggle.com/competitions/optiver-trading-at-the-close/discussion/442001
+
+Title: Thanks to the organizers
+URL: https://www.kaggle.com/competitions/optiver-trading-at-the-close/discussion/442094
+
+Title: Competition Hype
+URL: https://www.kaggle.com/competitions/optiver-trading-at-the-close/discussion/441978
+
+Title: 🕵️‍♂️ What we know about Optiver company? 🤔
+URL: https://www.kaggle.com/competitions/optiver-trading-at-the-close/discussion/442941
+
+Title: Relevant external data sources
+URL: https://www.kaggle.com/competitions/optiver-trading-at-the-close/discussion/443115
+
+Title: Memory reduced dataset in parquet format
+URL: https://www.kaggle.com/competitions/optiver-trading-at-the-close/discussion/441992
+
+Title: Questions Regarding the Use of External Data
+URL: https://www.kaggle.com/competitions/optiver-trading-at-the-close/discussion/441995
+
+Title: so is rnn-based or transformer methods useful in this competition?
+URL: https://www.kaggle.com/competitions/optiver-trading-at-the-close/discussion/442294
+
